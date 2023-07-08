@@ -11,6 +11,6 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.12.1",
     "bootstrap": "^4.4.1",
-    "pouchdb": "^7.2.1"
+    "pouchdb": "^7.3.1"
   }
 }
